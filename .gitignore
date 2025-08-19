@@ -1,5 +1,13 @@
-.venv/
-.idea/
+# Python
 __pycache__/
 *.pyc
-Add .gitignore
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.log
+
+# IDE
+.vscode/
+.idea/
